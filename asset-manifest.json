@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Find-Word-TypeScript/static/css/main.c8975477.css",
-    "main.js": "/Find-Word-TypeScript/static/js/main.97ee8d2f.js",
+    "main.js": "/Find-Word-TypeScript/static/js/main.26ff13b3.js",
     "static/js/787.88b0318b.chunk.js": "/Find-Word-TypeScript/static/js/787.88b0318b.chunk.js",
     "index.html": "/Find-Word-TypeScript/index.html",
     "main.c8975477.css.map": "/Find-Word-TypeScript/static/css/main.c8975477.css.map",
-    "main.97ee8d2f.js.map": "/Find-Word-TypeScript/static/js/main.97ee8d2f.js.map",
+    "main.26ff13b3.js.map": "/Find-Word-TypeScript/static/js/main.26ff13b3.js.map",
     "787.88b0318b.chunk.js.map": "/Find-Word-TypeScript/static/js/787.88b0318b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8975477.css",
-    "static/js/main.97ee8d2f.js"
+    "static/js/main.26ff13b3.js"
   ]
 }
