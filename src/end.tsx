@@ -13,8 +13,7 @@ const endGame = (props: string[], resetGame: () => void) => {
 			<div className='endGame'>
 				<h1>Koniec gry!</h1>
 				<p>Punkty: {props.length}</p>
-				<p>Odgadnięte hasła: </p>
-				{renderWords()}
+				{props.length > 0 && <p>Odgadnięte hasła: {renderWords()}</p>}
 				<button onClick={resetGame}>Reset</button>
 			</div>
 		</>
